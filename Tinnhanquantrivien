@@ -1,7 +1,9 @@
-LÀM SAO ĐỂ KẾT NỐI:
+{
+"SendMessage":1,
+"MyMessage": LÀM SAO ĐỂ KẾT NỐI:
 B1: Chọn Máy Chủ Mong Muốn Của Bạn
 B2: Chọn Kết Nối Nhà Mạng Của Bạn
 B3: Bấm Vào Nút Kết Nối VPN Để Sử Dụng 
 Lưu Ý: Nếu Máy Chủ Bạn chọn là SSH/WS Thì Chọn Kiểu Kết Nối Cũng Phải SSH/WS Và Ngược Lại.
 Nếu Kết Nối Bằng SSL/TLS Không Được Bạn Hãy Thử Bật Tắt Chế Độ Máy Bay Và Thử Lại ....
-
+}
